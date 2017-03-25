@@ -1,0 +1,16 @@
+PODS:
+  - Pratiktest2 (0.1.0)
+
+DEPENDENCIES:
+  - Pratiktest2 (from `../`)
+
+EXTERNAL SOURCES:
+  Pratiktest2:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Pratiktest2: c3770db3bc1532f0027c83f8b099612a8ffc04dc
+
+PODFILE CHECKSUM: 241ed9478209a212d43210c260fe9f7e8e67521b
+
+COCOAPODS: 1.2.0
