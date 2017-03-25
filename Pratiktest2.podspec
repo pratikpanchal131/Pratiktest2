@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Pratiktest2'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Testing Pod with Storyboard'
 
 # This description is used to generate tags and improve search results.
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
 
    s.source_files = 'Pratiktest2/Classes/**/*.{swift}'
   s.resource_bundles = {
-    'Pratiktest2' => ['Pratiktest2/Classes/**/*.{storyboard,xib}']
+    'Pratiktest2' => ['Pratiktest2/Classes/**/*.{storyboard,xib,nib}']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
