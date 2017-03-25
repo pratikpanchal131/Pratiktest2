@@ -52,6 +52,7 @@
 		A23355F38F01A74FF1E12755A030262B /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		A9988D7D1E868E9F0088677C /* PKDatePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PKDatePicker.swift; sourceTree = "<group>"; };
 		A9988D801E868F0C0088677C /* Date.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Date.storyboard; sourceTree = "<group>"; };
+		A9988DC01E869C290088677C /* pc4.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = pc4.xib; sourceTree = "<group>"; };
 		A9B4295F1C6B266324E271E08AAAC371 /* Pods-Pratiktest2_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Pratiktest2_Tests.modulemap"; sourceTree = "<group>"; };
 		AEFB6AC1233780030147CDE979994835 /* Pods-Pratiktest2_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Pratiktest2_Example-frameworks.sh"; sourceTree = "<group>"; };
 		B0FEDC4E6BEEABF5AA573CBF782F7051 /* Pods-Pratiktest2_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Pratiktest2_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -215,6 +216,7 @@
 				A23355F38F01A74FF1E12755A030262B /* ReplaceMe.swift */,
 				A9988D7D1E868E9F0088677C /* PKDatePicker.swift */,
 				A9988D801E868F0C0088677C /* Date.storyboard */,
+				A9988DC01E869C290088677C /* pc4.xib */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
